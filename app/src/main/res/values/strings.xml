@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="sign_out_button">SignOut</string>
+    <string name="dashboard_label">Todo List</string>
+</resources>
